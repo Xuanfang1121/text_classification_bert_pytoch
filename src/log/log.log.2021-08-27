@@ -1,0 +1,95 @@
+2021-08-27 17:35:05,118 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 17:35:08,006 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 17:35:08,007 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 17:35:41,439 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/models/BertClassification.py', reloading
+2021-08-27 17:35:41,568 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 17:35:44,470 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 17:35:44,471 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 17:36:50,385 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/models/BertClassification.py', reloading
+2021-08-27 17:36:50,473 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 17:36:53,245 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 17:36:53,246 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 17:39:16,158 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/models/BertClassification.py', reloading
+2021-08-27 17:39:16,271 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 17:39:19,045 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 17:39:19,046 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 17:40:17,829 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/models/BertClassification.py', reloading
+2021-08-27 17:40:17,914 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 17:40:20,599 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 17:40:20,600 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 17:42:43,635 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/models/BertClassification.py', reloading
+2021-08-27 17:42:43,751 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 17:42:46,463 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 17:42:46,464 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 17:48:42,307 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/models/BertClassification.py', reloading
+2021-08-27 17:48:42,462 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 17:48:45,304 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 17:48:45,305 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 17:52:05,930 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/models/BertClassification.py', reloading
+2021-08-27 17:52:06,104 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 17:52:08,818 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 17:52:08,819 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 18:03:30,902 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/models/BertClassification.py', reloading
+2021-08-27 18:03:31,035 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 18:03:33,699 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 18:03:33,699 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 18:06:04,512 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/config/config.py', reloading
+2021-08-27 18:06:04,651 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 18:06:07,361 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 18:06:07,361 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 18:07:56,877 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/config/config.py', reloading
+2021-08-27 18:07:56,971 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 18:07:59,560 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 18:07:59,560 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 18:11:10,047 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/models/BertClassification.py', reloading
+2021-08-27 18:11:10,167 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 18:11:13,112 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 18:11:13,112 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 18:12:39,340 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/data_loader.py', reloading
+2021-08-27 18:12:39,466 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 18:12:42,145 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 18:12:42,145 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 18:13:45,035 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/config/config.py', reloading
+2021-08-27 18:13:45,129 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 18:13:47,924 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 18:13:47,924 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 18:15:01,844 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/config/config.py', reloading
+2021-08-27 18:15:01,940 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 18:15:04,803 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 18:15:04,804 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 18:15:27,114 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/train_classification.py', reloading
+2021-08-27 18:15:27,240 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 18:15:30,211 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 18:15:30,211 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 18:19:05,013 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/config/config.py', reloading
+2021-08-27 18:19:05,173 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 18:19:08,145 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 18:19:08,146 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 18:19:25,404 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/models/BertClassification.py', reloading
+2021-08-27 18:19:25,526 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 18:19:28,291 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 18:19:28,291 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 18:20:11,935 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/models/BertClassification.py', reloading
+2021-08-27 18:20:12,026 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 18:20:15,108 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 18:20:15,109 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 19:36:24,240 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/utils/util.py', reloading
+2021-08-27 19:36:24,364 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 19:36:27,264 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 19:36:27,264 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 19:36:29,305 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/data_loader.py', reloading
+2021-08-27 19:36:29,422 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 19:36:32,409 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 19:36:32,409 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 19:39:55,349 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/config/config.py', reloading
+2021-08-27 19:39:55,474 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 19:39:58,113 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 19:39:58,114 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 19:40:11,303 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/train_classification.py', reloading
+2021-08-27 19:40:11,397 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 19:40:14,078 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 19:40:14,079 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
+2021-08-27 19:42:25,921 - INFO - _internal.py:225 - _log() -  * Detected change in '/opt/nlu/py/elec_document_entity_position_project/config/config.py', reloading
+2021-08-27 19:42:26,054 - INFO - _internal.py:225 - _log() -  * Restarting with stat
+2021-08-27 19:42:28,751 - WARNING - _internal.py:225 - _log() -  * Debugger is active!
+2021-08-27 19:42:28,752 - INFO - _internal.py:225 - _log() -  * Debugger PIN: 115-081-103
